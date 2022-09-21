@@ -12,7 +12,7 @@ body {
     margin-bottom: 7px !important;
 }
 
-.mb-5 {
+.mt-5 {
     margin-top: 5px !important;
 }
 
@@ -31,11 +31,11 @@ body {
 }
 
 .bwhite-lg {
-    background.color: transparent !important;
+    background-color: transparent !important;
 }
 
 .bwhite-sm {
-    background.color: transparent !important;
+    background-color: transparent !important;
     width: 10px !important;
 }
 

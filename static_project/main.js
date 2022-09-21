@@ -1,7 +1,10 @@
 $(document).ready(function(){
-        $('#modal-bnt').click(function(){
-            $('.ui.modal')
-            .modal('show')
-            ;
-        })
+    console.log('hello world')
+    $('#modal-btn').click(function(){
+        console.log('working')
+        $('.ui.modal')
+        .modal('show')
+        ;
     })
+    $('.ui.dropdown').dropdown()
+})
